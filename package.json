@@ -1,12 +1,11 @@
 {
-    "name": "ecommerce",
+    "name": "tesla-website",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Komronbek17.github.io/tesla-web",
+    "homepage": "https://Komronbek17.github.io/tesla-website",
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
-        "start": "node server.js",
         "deploy": "gh-pages -d dist"
     },
     "dependencies": {
